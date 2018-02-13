@@ -1,0 +1,26 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "...something funny coming up....",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishcodes4/aiServer.git"
+  },
+  "author": "Ashish Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishcodes4/aiServer/issues"
+  },
+  "homepage": "https://github.com/ashishcodes4/aiServer#readme"
+}
